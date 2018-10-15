@@ -1,0 +1,106 @@
+Title: H-Farm
+
+----
+
+Baseline: Digital platform which helps young people and new born companies to move their business into a digital way of thinking.
+
+----
+
+Text: 
+
+Eodem tempore etiam Hymetii praeclarae indolis viri negotium est actitatum, cuius hunc novimus esse textum. cum Africam pro consule regeret Carthaginiensibus victus inopia iam lassatis, ex horreis Romano populo destinatis frumentum dedit, pauloque postea cum provenisset segetum copia, integre sine ulla restituit mora.
+
+Sed tamen haec cum ita tutius observentur, quidam vigore artuum inminuto rogati ad nuptias ubi aurum dextris manibus cavatis offertur, inpigre vel usque Spoletium pergunt. haec nobilium sunt instituta.
+
+Ergo ego senator inimicus, si ita vultis, homini, amicus esse, sicut semper fui, rei publicae debeo. Quid? si ipsas inimicitias, depono rei publicae causa, quis me tandem iure reprehendet, praesertim cum ego omnium meorum consiliorum atque factorum exempla semper ex summorum hominum consiliis atque factis mihi censuerim petenda.
+
+Sed (saepe enim redeo ad Scipionem, cuius omnis sermo erat de amicitia) querebatur, quod omnibus in rebus homines diligentiores essent; capras et oves quot quisque haberet, dicere posse, amicos quot haberet, non posse dicere et in illis quidem parandis adhibere curam, in amicis eligendis neglegentis esse nec habere quasi signa quaedam et notas, quibus eos qui ad amicitias essent idonei, iudicarent. Sunt igitur firmi et stabiles et constantes eligendi; cuius generis est magna penuria. Et iudicare difficile est sane nisi expertum; experiendum autem est in ipsa amicitia. Ita praecurrit amicitia iudicium tollitque experiendi potestatem.
+
+Haec dum oriens diu perferret, caeli reserato tepore Constantius consulatu suo septies et Caesaris ter egressus Arelate Valentiam petit, in Gundomadum et Vadomarium fratres Alamannorum reges arma moturus, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.
+
+----
+
+Theurl: https://www.h-farm.com/
+
+----
+
+Header: h-farm.jpg
+
+----
+
+Logo: h-farm-logo.png
+
+----
+
+Location: Bologne, Italie
+
+----
+
+Staff: 80
+
+----
+
+Budget: 10M
+
+----
+
+Rooming: 120
+
+----
+
+State: stable
+
+----
+
+Duration: 7
+
+----
+
+Program: 40
+
+----
+
+Open: 80
+
+----
+
+Mix: 70
+
+----
+
+Content: 30
+
+----
+
+Make: 70
+
+----
+
+Neutral: 10
+
+----
+
+Contenu: 30
+
+----
+
+Tags: super idées,boite à outils
+
+----
+
+Arcs: 
+
+- 
+  anarc: retraite-creative
+  percent: "20"
+- 
+  anarc: universite-partagee
+  percent: "80"
+
+----
+
+Offres: explorations thématiques,conseil
+
+----
+
+Publics: individus,startups

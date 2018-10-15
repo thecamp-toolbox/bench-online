@@ -1,0 +1,12 @@
+title: Places
+pages: 
+  template: place 
+  hide: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  mysubpagelist:
+    label: Places
+    type:  subpagelist

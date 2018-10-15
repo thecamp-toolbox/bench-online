@@ -1,0 +1,45 @@
+Title: Espace transitionnel
+
+----
+
+Baseline: Se préparer ensemble au monde de demain
+
+----
+
+Fas: city
+
+----
+
+Text: 
+
+Leur fonctionnement s’appuie en grande partie sur la participation volontaire et ils cherchent à encourager les initiatives bottom-up, en s’appuyant sur des méthodes d’animation participatives et l’échange pair à pair. Ils mettent à disposition une série d’outils et de méthodologies tournés vers la mise en capacité et l’autonomisation (empowerment) et ont tendance à favoriser la création de communs.
+
+Ces espaces sont en général fortement ancrés dans leur territoire (bloc, quartier, ville, région) et peuvent même être vus comme des outils pour redynamiser un quartier ou un lieu en transition à travers la création de lien social. Ils s’appuient parfois sur l’utilisation temporaire - plus ou moins autorisée - de lieux vacants (urbanisme transitoire).
+
+----
+
+Program: 0
+
+----
+
+Open: 0
+
+----
+
+Mix: 100
+
+----
+
+Contenu: 20
+
+----
+
+Make: 100
+
+----
+
+Neutral: 90
+
+----
+
+Thecol: #e0a800

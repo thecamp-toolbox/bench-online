@@ -1,0 +1,63 @@
+title: Archetype
+pages: false
+files: true
+fields:
+  untruc: 
+    type: prevnext
+  title:
+    label: Title
+    type:  text
+  baseline: 
+    label: Baseline 
+    type: text 
+  fas: 
+    label: Icone FA
+    type: text
+    width: 1/2
+  thecol:
+    label: Color 
+    type: color
+    width: 1/2
+  text:
+    label: Text
+    type:  textarea
+  sliders: 
+    label: Sliders 
+    type: headline
+    numbered: false
+  program:
+    label: Programmation ↔ sur-mesure
+    type: rangeslider
+    min: 0
+    max: 100
+    step: 10
+  open:
+    label: lieu ouvert ↔ public payant ou sélectionnés
+    type: rangeslider
+    min: 0
+    max: 100
+    step: 10
+  mix: 
+    label: bulle mono-org ↔ inter-org
+    type: rangeslider
+    min: 0
+    max: 100
+    step: 10
+  contenu: 
+    label: agrégateur de contenus ↔ créateur de contenus
+    type: rangeslider
+    min: 0
+    max: 100
+    step: 10
+  make: 
+    label: faire pour ↔ donner les moyens de faire
+    type: rangeslider
+    min: 0
+    max: 100
+    step: 10
+  neutral: 
+    label: neutralité ↔ radicalité
+    type: rangeslider
+    min: 0
+    max: 100
+    step: 10

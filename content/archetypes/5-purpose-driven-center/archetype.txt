@@ -1,0 +1,49 @@
+Title: Purpose-driven center
+
+----
+
+Baseline: Le lieu de référence pour travailler sur [*sujet à définir]
+
+----
+
+Fas: bullseye
+
+----
+
+Text: 
+
+Le ‘purpose-driven center’ (ou hub) est un lieu de référence pour réfléchir sur [un sujet donné] (exemples de sujet : innovation sociale, transfo numérique des organisations, innovation ouverte, économie de l’attention, Design Thinking, entreprise libérée, complexité, design circulaire, mobilité durable, ville résiliente, etc.). Animé par un sentiment d'urgence, il part du principe que [le sujet] est la clé absolue de compréhension du monde et que tout le monde doit se l’approprier pour devenir acteurs du changement. En ce sens, il publie activement sur le sujet - parfois sur son propre média - et va parfois jusqu’à s’impliquer dans des programmes de recherche pour crédibiliser le sujet. Il est souvent mené par un ‘thought leader’ reconnu qui intervient dans de nombreuses conférences. La distinction n’est pas toujours claire entre le projet et la personne.
+
+Par sa communication claire et sa position de leadership sur [le sujet], il attire des gens passionnés par [le sujet] et capables de contribuer à leur manière [au sujet]. Il fait attention à ne pas renier ses valeurs et sa mission pour ne pas décrédibiliser sa position.
+
+Le hub combine plusieurs programmes (ie. service aux entreprises, meetups, agence, incubateur, etc.), allant tous dans la même direction et contribuant à la mission globale. Ces programmes ont en général été ajoutés au fur et à mesure du succès des programmes précédents ou de l’identification de certains manques. Ces nouveaux programmes sont donnés à des membres actifs engagés dans la réussite du programme, mais aussi [du sujet] dans son ensemble.
+
+Selon les cas, il peut mener un certain nombre de projets liés [au sujet] en combinant des acteurs intéressés.
+
+----
+
+Program: 10
+
+----
+
+Open: 30
+
+----
+
+Mix: 90
+
+----
+
+Contenu: 90
+
+----
+
+Make: 60
+
+----
+
+Neutral: 100
+
+----
+
+Thecol: #700029

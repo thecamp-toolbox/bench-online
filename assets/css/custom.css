@@ -1,0 +1,65 @@
+/* 
+/* 
+/*  custom.css
+/*
+/*  If not using Gulp and Sass, add your custom CSS below then include it
+/*  in your page by adding a reference to assets/css/custom.css in the head of each page.
+/*
+*/
+
+@font-face {
+	font-family: MarkProMed;
+    src: url(../fonts/MarkPro-Medium_ALt.otf);
+}
+.markpromed {
+	font-family: MarkProMed;
+}
+.header-image {
+	height: 350px;
+	background-position: center center;
+	background-size: cover;
+}
+.slider {
+	position: relative;
+	padding-top: 14px;
+	padding-bottom: 14px;
+}
+.slider-line {
+	height: 6px;
+	background-color: lightgray;
+	width: 100%;
+	border-radius: 3px;
+}
+.slider-point {
+	background-color: teal;
+	height: 16px;
+	width: 16px;
+	border-radius: 50%;
+	position: absolute;
+	top: 9px;
+	margin-left: -8px;
+}
+.italic {
+	font-style: italic;
+}
+.badge {
+	padding: 0.5rem;
+}
+.tag {
+	display: inline-block;
+}
+.tag:first-letter {
+	text-transform: uppercase;
+}
+a .card-text {
+	color: #495057;
+}
+.list-inline > .list-inline-item:not(:last-child) {
+    margin-right: 0.15rem;
+}
+.dropdow-menu .fas, h1 .fas {
+	font-size: 75%;
+}
+.subtle {
+	color: rgba(0,0,0,0.2);
+}

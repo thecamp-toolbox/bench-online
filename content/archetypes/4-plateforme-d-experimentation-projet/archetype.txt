@@ -1,0 +1,51 @@
+Title: Plateforme d'expérimentation projet
+
+----
+
+Baseline: Inventons ensemble les solutions aux problèmes de notre temps
+
+----
+
+Text: 
+
+La plateforme de projets est un lieu où des solutions aux problèmes sociaux et environnementaux d'aujourd'hui sont inventées et mises en pratique.
+
+Afin d’avoir une approche systémique et de maximiser son impact, elle fédère un réseau d’acteurs pluri-disciplinaires et multi-forme (grands groupes, startups, collectifs, citoyens, etc.) qu’elle est capable d’activer et combiner au besoin à travers des montages juridiques adaptés (gouvernance, rôles et responsabilités, financement, confidentialité, etc.) à chaque projet. Elle est capable de faire le lien entre ces partenaires qui viennent chacun avec des objectifs différents, et s’assure que chacun y trouve son compte et contribue à la mesure de ce qu’il peut faire. Avec de véritable capacités d’Assistance à Maîtrise d’Ouvrage, elle anime le groupe de travail constitué et facilite les discussions complexes.
+
+Elle réunit au même endroit (ou dans un même réseau) toutes les capacités de production nécessaires au développement d’un projet. En lien avec les laboratoires de recherche, elle facilite le transfert de technologie en faisant émerger des nouveaux usages et nouveaux modèles d’affaire.
+
+À la manière des living labs, elle maîtrise une variété de méthodologies (et outils) permettant d’impliquer des utilisateurs (ou citoyens) aux différentes étapes du processus de conception. En véritable chef d’orchestre, elle organise les contributions de chacun des partenaires (et potentiellement, les contributions extérieures) et assure le partage de la valeur créée (pas seulement monétaire).
+
+Elle sait formuler des hypothèses et mettre en place facilement, grâce à son réseau, les conditions d’expérimentation adéquates. Elle maîtrise ensuite de véritables ressources et méthodologies d’évaluation et de feedback. Elle s’appuie sur des pratiques agiles pour améliorer ces projets de manière itérative.
+
+----
+
+Fas: flask
+
+----
+
+Program: 10
+
+----
+
+Open: 20
+
+----
+
+Mix: 50
+
+----
+
+Contenu: 30
+
+----
+
+Make: 10
+
+----
+
+Neutral: 10
+
+----
+
+Thecol: #53008f

@@ -1,0 +1,128 @@
+title: Place
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  baseline: 
+    label: Baseline 
+    type: text 
+  theurl: 
+    label: Link
+    type: URL 
+    width: 1/2
+  location: 
+    label: Location
+    type: text
+    width: 1/2
+  header:
+    label: Header Image
+    type:  selector
+    mode:  single
+    types:
+      - image
+  logo: 
+    label: Place logo
+    type:  selector
+    mode:  single
+    types:
+      - image
+  staff: 
+    label: staff
+    type: number 
+    width: 1/4
+  budget: 
+    label: Annual budget
+    type: text
+    width: 1/4
+  rooming: 
+    label: Rooming
+    type: number 
+    width: 1/4
+  state: 
+    label: Development 
+    type: select 
+    options:
+      project: project
+      beta: beta
+      stable: stable 
+      closed: closed
+    width: 1/4
+  text:
+    label: Text
+    type:  textarea
+  tags:
+    label: Spécificités
+    type: tags
+    lower: true
+    index: all
+  offres:
+    label: Offres
+    type: tags
+    lower: true
+    index: all
+  publics:
+    label: Publics
+    type: tags
+    lower: true
+    index: all
+  arcs: 
+    label: Archetypes
+    type: structure
+    entry: >
+      {{anarc}} - {{percent}}%
+    fields: 
+      anarc: 
+        label: Archetype 
+        type: select
+        options: query
+        query: 
+          page: archetypes
+      percent: 
+        label: Percentage 
+        type: rangeslider
+        min: 0
+        max: 100
+        step: 10
+  sliders: 
+    label: Sliders 
+    type: headline
+    numbered: false
+  program:
+    label: Programmation ↔ sur-mesure
+    type: rangeslider
+    min: 0
+    max: 100
+    step: 10
+  open:
+    label: lieu ouvert ↔ public payant ou sélectionnés
+    type: rangeslider
+    min: 0
+    max: 100
+    step: 10
+  mix: 
+    label: bulle mono-org ↔ inter-org
+    type: rangeslider
+    min: 0
+    max: 100
+    step: 10
+  contenu: 
+    label: agrégateur de contenus ↔ créateur de contenus
+    type: rangeslider
+    min: 0
+    max: 100
+    step: 10
+  make: 
+    label: faire pour ↔ donner les moyens de faire
+    type: rangeslider
+    min: 0
+    max: 100
+    step: 10
+  neutral: 
+    label: neutralité ↔ radicalité
+    type: rangeslider
+    min: 0
+    max: 100
+    step: 10
+

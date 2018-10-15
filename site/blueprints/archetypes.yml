@@ -1,0 +1,12 @@
+title: Archetypes
+pages: 
+  template: archetype 
+  hide: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  mysubpagelist:
+    label: Archetypes
+    type:  subpagelist
