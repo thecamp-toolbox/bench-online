@@ -16,11 +16,13 @@
         <div class="card-footer card-footer-borderless d-flex justify-content-between">
             <div class="text-small">
                 <ul class="list-inline">
-                    <?php foreach($place->arcs()->toStructure()->sortBy('percent')->flip() as $arc) : ?>
+                    <?php $thearcs = $place->arcs()->toStructure() ?> 
+                    <?php foreach($thearcs->sortBy('percent')->flip() as $arc) : ?>
                         <?php $thearc = page('archetypes')->children()->find($arc->anarc()) ?>
                         <a href="<?= $thearc->url() ?>" class="list-inline-item">
-                            <span class="badge badge-pill text-white" style="background-color: <?= $thearc->thecol() ?>">
+                            <span class="mr-1" style="color: <?= $thearc->thecol() ?>">
                                 <i class="fas fa-<?= $thearc->fas() ?>"></i>
+                                <?= $arc->percent().'%' ?>
                             </span>
                         </a>
                     <?php endforeach ?>

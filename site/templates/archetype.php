@@ -34,46 +34,48 @@
 
                     <?= snippet('markers-card') ?>
 
-                    <div class="card">
-                        <div class="card-header d-flex justify-content-between">
-                            <div>
-                                <span class="h5">Lieux associés</span>
+                    <?php $places = page('places')->children()->filterBy('arcs', '*=',$page->uid()) ?>
+                    <?php if ($places != '') : ?>
+                        <div class="card">
+                            <div class="card-header d-flex justify-content-between">
+                                <div>
+                                    <span class="h5">Lieux associés</span>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <ul class="list-unstyled list-spacing-sm">
+                                    <?php foreach ($places as $place) : ?>
+                                        <li>
+                                            <a class="media" href="<?= $place->url() ?>">
+                                                <?php if ($place->header() != '') : ?>
+                                                    <?php $header = $place->header()->toFile() ?>
+                                                    <img alt="Image" src="<?= $header->url() ?>" class="avatar avatar-sm mr-3" />
+                                                <?php endif ?>
+                                                <div class="media-body">
+                                                    <span class="h6 mb-0"><?= $place->title() ?></span>
+                                                    <span class="text-muted">
+
+                                                        <span class="mr-1" style="color: <?= $page->thecol() ?>">
+                                                            <i class="fas fa-<?= $page->fas() ?>"></i>
+                                                            <?php $arcs = $place->arcs()->toStructure() ?>
+                                                            <?php $thearc = $arcs->filterBy('anarc','*=',$page->uid())?>
+                                                            <?php $percent = $thearc->first()->percent() ?>
+                                                            <?= $percent.'%' ?>
+                                                        </span>
+
+                                                        <i class="fas fa-map-pin mr-1"></i>
+                                                        <?= $place->location() ?>        
+                                                    </span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    <?php endforeach ?>
+                                </ul>
+
                             </div>
                         </div>
-                        <div class="card-body">
-                            <ul class="list-unstyled list-spacing-sm">
-                                <li>
-                                    <a class="media" href="#">
-                                        <img alt="Image" src="<?= $site->url() ?>/assets/images/chester-beatty-library.jpg" class="avatar avatar-sm mr-3" />
-                                        <div class="media-body">
-                                            <span class="h6 mb-0">Chester Beatty library</span>
-                                            <span class="text-muted">Dublin, Ireland</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a class="media" href="#">
-                                        <img alt="Image" src="<?= $site->url() ?>/assets/images/chester-beatty-library.jpg" class="avatar avatar-sm mr-3" />
-                                        <div class="media-body">
-                                            <span class="h6 mb-0">Chester Beatty library</span>
-                                            <span class="text-muted">Dublin, Ireland</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a class="media" href="#">
-                                        <img alt="Image" src="<?= $site->url() ?>/assets/images/chester-beatty-library.jpg" class="avatar avatar-sm mr-3" />
-                                        <div class="media-body">
-                                            <span class="h6 mb-0">Chester Beatty library</span>
-                                            <span class="text-muted">Dublin, Ireland</span>
-                                        </div>
-                                    </a>
-                                </li>
-                            </ul>
-
-                        </div>
-                    </div>
-                    <!--end of card-->
+                        <!--end of card-->
+                    <?php endif ?>
 
                 </div>
                 <!--end of col-->

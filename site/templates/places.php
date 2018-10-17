@@ -2,13 +2,15 @@
 
  <div class="main-container">
   
+    <?php $places = $page->children() ?>
     <section class="space-sm flush-with-above">
         <div class="container">
             <div class="row mb-4">
                 <div class="col-12 d-flex justify-content-between">
                     <div>
-                        <span class="text-muted text-small">Resultats 1 - 12 of 25</span>
+                        <span class="text-muted text-small"><?= $places->count() ?> Résultats</span>
                     </div>
+                    <!-- select 
                     <form class="d-flex align-items-center">
                         <span class="mr-2 text-muted text-small text-nowrap">Classement :</span>
                         <select class="custom-select">
@@ -17,13 +19,14 @@
                             <option value="new-old">Populaires</option>
                         </select>
                     </form>
+                    -->
                 </div>
                 <!--end of col-->
             </div>
             <!--end of row-->
             <ul class="row feature-list feature-list-sm">
 
-            	<?php foreach ($page->children() as $place) : ?>
+            	<?php foreach ($places as $place) : ?>
 	                <?php snippet('place-card', array('place' => $place)) ?>
 	            <?php endforeach ?>
 

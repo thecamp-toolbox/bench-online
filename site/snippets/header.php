@@ -14,7 +14,7 @@
 
     <body>
 
-    <div class="nav-container">
+    <div class="nav-container sticky-top" data-spy="affix" data-offset-top="60" data-offset-bottom="200">
 	    <div class="bg-dark navbar-dark">
 	        <div class="container">
 	            <nav class="navbar navbar-expand-lg">
@@ -32,13 +32,13 @@
 	                        <?php $archetypes = page('archetypes') ?>
 	                        <?php snippet('dropdown', array('thepage'=>$archetypes)) ?>
 	                        <li class="nav-item">
-	                            <a class="nav-link" href="#" >Carte</a>
+	                            <a class="nav-link disabled" href="#" >Carte</a>
 	                        </li>
 	                    </ul>
 
 	                    <ul class="navbar-nav">
 	                        <li class="nav-item">
-	                            <a class="nav-link" href="<?= $site->url() ?>/a-propos" >À propos</a>
+	                            <a class="nav-link disabled" href="<?= $site->url() ?>/a-propos" >À propos</a>
 	                        </li>
 	                    </ul>
 
