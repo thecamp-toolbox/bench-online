@@ -25,6 +25,15 @@
             <div class="row justify-content-between">
                 <div class="col-12 col-md-8 col-lg-7">
                     <article>
+                         <?php if ($page->pp() != '') : ?>
+                            <h5>Convictions</h5>
+                            <?php $conv = $page->pp()->toStructure() ?>
+                            <?php foreach ($conv as $c) : ?>                            
+                                <div class="alert alert-secondary" role="alert">
+                                    <i class="fas fa-compass mr-2"></i><?= $c->thep() ?>
+                                </div>
+                            <?php endforeach ?>
+                        <?php endif ?>
                         <h5>Description</h5>
                         <?= $page->text()->kirbytext() ?>
                     </article>

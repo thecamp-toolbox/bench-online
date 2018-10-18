@@ -132,6 +132,8 @@
                                                 $state = 'Projet';
                                             } else if ($state == 'beta') {
                                                 $state = 'Beta';
+                                            } else if ($state == 'croissance') {
+                                                $state = 'Croissance';
                                             } else if ($state == 'stable') {
                                                 $state = 'Stable';
                                             } else if ($state == 'closed') {

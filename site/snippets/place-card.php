@@ -1,8 +1,8 @@
 <li class="col-12 col-md-6 col-lg-4">
     <div class="card">
         <a href="<?= $place->url() ?>">
-        	<?php if ($header = $place->header()) : ?>  
-        		<?php $header = $header->toFile() ?>
+        	<?php if ($place->header() != '') : ?>  
+        		<?php $header = $place->header()->toFile() ?>
         		<?php $header = $header->crop(600,350) ?>
            		<img class="card-img-top" src="<?= $header->url() ?>" alt="Card image cap">
            	<?php endif ?>
@@ -14,7 +14,7 @@
             </a>
         </div>
         <div class="card-footer card-footer-borderless d-flex justify-content-between">
-            <div class="text-small">
+            <div class="text-small w-100">
                 <ul class="list-inline">
                     <?php $thearcs = $place->arcs()->toStructure() ?> 
                     <?php foreach($thearcs->sortBy('percent')->flip() as $arc) : ?>
@@ -26,7 +26,7 @@
                             </span>
                         </a>
                     <?php endforeach ?>
-                    <li class="list-inline-item">
+                    <li class="list-inline-item float-right">
                         <i class="fas fa-map-pin ml-1 mr-1"></i> <?= $place->location() ?>
                     </li>
                 </ul>

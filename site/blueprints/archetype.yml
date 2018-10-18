@@ -9,7 +9,7 @@ fields:
     type:  text
   baseline: 
     label: Baseline 
-    type: text 
+    type: text
   fas: 
     label: Icone FA
     type: text
@@ -18,6 +18,15 @@ fields:
     label: Color 
     type: color
     width: 1/2
+  pp: 
+    label: Parti-pris
+    type: structure 
+    entry: >
+      {{thep}}
+    fields: 
+      thep: 
+        label: Parti-pris 
+        type: text 
   text:
     label: Text
     type:  textarea

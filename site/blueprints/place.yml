@@ -2,6 +2,8 @@ title: Place
 pages: false
 files: true
 fields:
+  prevnext: 
+    type: prevnext
   title:
     label: Title
     type:  text
@@ -46,6 +48,7 @@ fields:
     options:
       project: project
       beta: beta
+      croissance: croissance
       stable: stable 
       closed: closed
     width: 1/4
