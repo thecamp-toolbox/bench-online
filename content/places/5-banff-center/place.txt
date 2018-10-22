@@ -1,0 +1,109 @@
+Title: Banff Center
+
+----
+
+Baseline: Centre d'art et de créativité
+
+----
+
+Theurl: https://www.banffcentre.ca/
+
+----
+
+Location: Banff, Canada
+
+----
+
+Header: banff.jpg
+
+----
+
+Logo: banff_logo.jpg
+
+----
+
+Staff: 60
+
+----
+
+Budget: 60M
+
+----
+
+Rooming: 400
+
+----
+
+State: stable
+
+----
+
+Text: 
+
+Le Centre des arts de Banff est un organisme culturel canadien de premier plan qui offre aux artistes de toutes les disciplines et aux chefs de file de tous les domaines des occasions uniques pour créer et se développer. Il a été fondé en 1933, il fête ses 85 ans. 
+
+Le Centre des arts de Banff offre des programmes de résidence en arts d'interprétation, musique, théâtre, opéra et danse; en arts visuels et numériques; en littérature et traduction; en arts, cinéma et médias autochtones. Ces activités multidisciplinaires uniques permettent aux artistes de faire le pont avec d'autres disciplines et de travailler avec les nouvelles technologies. Nous nous associons aussi à des organismes artistiques d'envergure nationale et internationale pour porter sur les scènes et dans les galeries d'art et les salles de concert de partout au pays et à l'étranger. Nous partageons aussi ce qui se passe au Centre des arts de Banff avec les différents publics grâce à nos plates-formes numériques. L'Institut de leadership Peter Lougheed offre aux chefs de file d'organismes à but lucratif et sans but lucratif des occasions de développer de nouvelles stratégies de résolution de problèmes pour notre monde de plus en plus complexe. Enfin, notre centre des congrès accueille des groupes d'individus de partout dans le monde dans un environnement d'apprentissage qui saura les inspirer.
+
+Une grande variété de programmes est proposée, dont un certain nombre autour du *leadership*. 
+Les conditions d'accueil sont très confortables, avec des ateliers très bien équipés. 
+Financé en grande partie par les fonds publics de l'Alberta (donc, par extension, des sables bitumineux).
+
+##Manifeste 
+
+- **Communauté créative** : Nous formons une communauté où nous nous inspirons mutuellement pour repousser les frontières, pour prendre des risques et pour élaborer de nouvelles idées et solutions, pour aujourd’hui et pour demain.
+- **Apprentissage** : Nous diffusons et encourageons une culture créative qui stimule la croissance personnelle et professionnelle.
+- **Diversité** : Nous croyons fermement que notre force repose sur la diversité des atouts personnels et de l'héritage culturel de chacun. 
+- **Communication** : Nous favorisons et mettons en pratique des communications claires, respectueuses et positives pour réussir sur les plans personnel et professionnel.
+- **Équilibre entre le travail et la vie personnelle** : Nous soutenons l'harmonie entre le travail et la vie personnelle en cherchant à atteindre un équilibre entre les objectifs personnels et professionnels de chacun.
+- **Leadership environnemental** : Nous sommes fiers de notre « maison » dans le Parc national de Banff et acceptons de jouer le rôle de chef de file à titre d'organisation durable, respectueuse de l'environnement.
+
+----
+
+Tags: hébergement possible pour le staff,tourné vers les autochtones,subventions publiques,dans la montagne,leadership,écologie
+
+----
+
+Offres: résidences d'artistes,spectacles,formations,festivals,conférences,restaurant,bar
+
+----
+
+Publics: artistes,professionnels du secteur culturel,professionnels
+
+----
+
+Arcs: 
+
+- 
+  anarc: retraite-creative
+  percent: "80"
+- 
+  anarc: universite-partagee
+  percent: "20"
+
+----
+
+Sliders: 
+
+----
+
+Program: 20
+
+----
+
+Open: 100
+
+----
+
+Mix: 80
+
+----
+
+Contenu: 10
+
+----
+
+Make: 30
+
+----
+
+Neutral: 10

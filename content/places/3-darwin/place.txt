@@ -1,0 +1,113 @@
+Title: Darwin
+
+----
+
+Baseline: Able to adapt
+
+----
+
+Theurl: https://darwin.camp/
+
+----
+
+Location: Bordeaux, France
+
+----
+
+Header: darwin-bordeaux-credit-la-brigade.jpg
+
+----
+
+Logo: logo_darwin_modif_31.jpg
+
+----
+
+Staff: 560
+
+----
+
+Budget: 70M
+
+----
+
+Rooming: 
+
+----
+
+State: stable
+
+----
+
+Text: 
+
+Darwin est un terrain de jeu grandeur nature de l’innovation. Cette ancienne caserne militaire de près de 20 000 m2, installée rive droite quai des Queyries, est en constante effervescence. Une sorte de cité idéale tournée vers l’économie verte avec la création d’une ferme urbaine, d’un skate-park XXL, d’espaces d’expression libre pour les grapheurs, d’une épicerie bio, d’un restaurant Le Magasin général, d’espaces de co-working et même d’un terrain de bike-polo. Le tout décoré avec le charme de la récup’ !
+
+Tout l'écosystème est tourné autour de la transition écologique (par exemple, la pépinière est consacrée aux métiers de l’économie verte).
+
+##Impact 
+
+- impact sur le quartier en plein développement
+- Depuis 2015, le Fonds de dotation Darwin a permis aux associations de solidarité que sont Emmaüs Gironde et Action Froid Gironde d’établir leurs quartiers à la Caserne Niel.
+- En 2016, sous l’impulsion d’Emmaüs et avec le soutien du Conseil Communal d’Action Sociale de la Ville de Bordeaux, plusieurs tétrodons (modules d’habitations installés à la Caserne) sont aménagés pour permettre l’accueil d’une vingtaine de personnes vulnérables et de réfugiés, avec un accompagnement social et professionnel effectué par des travailleurs sociaux qualifiés.
+- associations soutenues: +100 par an
+- 40 associations résidentes avec 5000 adhérents.
+- 150 création d'emplioi depuis 2013
+- 7000 000 visiteurs annuels
+- 230 entreprises installées
+
+##Manifeste
+
+ 
+L’accélération du réchauffement climatique nous oblige à diminuer drastiquement et rapidement la consommation de ressources matérielles et énergétiques de nos villes, à réinventer nos modèles économiques et à changer radicalement nos modes de vie. Rien que ça.
+Plutôt que d’attendre tout de la puissance publique ou d’une hypothétique rupture technologique, DARWIN a décidé de s’y coller concrètement, dès maintenant, avec trois mots d’ordre : coopération économique, transition écologique, alternatives citoyennes.
+Alors innover, oui. Mais pas n’importe comment. A DARWIN nous sommes persuadés d’obtenir plus de créativité par la modestie du bricolage que par l’arrogance du génie. Plus de bien-être par l’attention aux usages que par la norme imposée. Plus de richesses par le collaboratif que par l’individualisme. Plus d’intelligence par la rencontre des publics que par leur mise en concurrence. Plus d’écologie par le low-tech que la high-tech.
+Surtout ne pas répéter des solutions conventionnelles qui ne marchent plus. S’affranchir des règles peu à peu stratifiées et fossilisées. Aller directement à l’essentiel. Associer tous ceux qui y croient par l’hybridation des moyens. Tisser des alliances bienveillantes. Se réapproprier notre territoire. Agir de manière joyeuse, déterminée, toujours en éveil, jamais dans le dogme. Faire ensemble, viser l’intérêt général. Construire cette utopie sur la prise en compte lucide des limites physiques de cette planète.
+Si hacker un système c’est tenter d’en corriger les failles pour le conduire à ses fins, alors oui nous sommes des « hackers territoriaux ». Gagner du temps (et de l’argent) sans plus attendre sur les autorisations et les subventions. Décider de faire, sans permis si nécessaire. Faire la preuve par soi-même qu’une autre vi(ll)e est possible. Inviter le personnel politique à rejoindre le mouvement si il le souhaite. Et tenter sur du concret, en bonne intelligence, de trouver un terrain d’entente.
+
+----
+
+Tags: friche réhabilitée,thématique écologique,hébergement de projets variés
+
+----
+
+Offres: co-working,pépinière,restaurant,spectacles,location de salles de réunion
+
+----
+
+Publics: grand-public,public concerné par la transition écologique
+
+----
+
+Arcs: 
+
+- 
+  anarc: espace-transitionnel
+  percent: "100"
+
+----
+
+Sliders: 
+
+----
+
+Program: 0
+
+----
+
+Open: 60
+
+----
+
+Mix: 90
+
+----
+
+Contenu: 0
+
+----
+
+Make: 90
+
+----
+
+Neutral: 80

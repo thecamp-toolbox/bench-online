@@ -1,0 +1,110 @@
+Title: FForest fire
+
+----
+
+Baseline: Start a fire in your organization!
+
+----
+
+Theurl: https://www.fforestfire.co.uk/
+
+----
+
+Location: Cardigan, Pays de Galles
+
+----
+
+Header: fforest.jpg
+
+----
+
+Logo: fforestlogo.jpg
+
+----
+
+Staff: 
+
+----
+
+Budget: 
+
+----
+
+Rooming: 200
+
+----
+
+State: croissance
+
+----
+
+Text: 
+
+(link: https://www.coldatnight.co.uk/ text: FForest target: blank) commence comme le projet un peu fou d'un couple de designers. Ils décident de créer un espace accueillant au milieu de la campagne du Pays de Galle. Au coeur de leur projet, la notion d'expériences riches, créées par des choses simples et la beauté du paysage. 
+
+Ils s'appuient sur les principes suivants : 
+
+- *Care* et attention au détail
+- *Growing* 
+- *Cooking*
+- *Eating*
+- *Learning*
+- *Living*
+
+Ils proposent plusieurs types d'hébergement (qu'ils ont presque tous construits eux-mêmes), plus ou moins confortables, disséminés dans la campagne environnante. 
+
+Et depuis peu, ils développent une offre de *corporate retreats*, sous le nom de FForestfire.
+Ils se décrivent cette proposition par la négative (en opposition aux centres de congrès) : 
+
+> Nous ne ressemblons en rien à un centre de conférence, mais nous faisons (presque) tout ce qu’un centre de conférence peut faire. Et plus. Nous faisons de la bonne nourriture, du bon air, du bon café. Nous avons de grands espaces où jusqu'à 200 personnes ou plus peuvent s'asseoir pour manger ensemble, participer à une présentation, se divertir, danser, chanter, jouer. Nous disposons de plusieurs petits espaces intimes intérieur et extérieur où de petits groupes peuvent réfléchir, travailler, planifier, concevoir et rêver.
+> Ici, pas de moquette, de climatisation, ou de distributeurs automatiques.
+
+Ils proposent de prendre en charge toute l'organisation de l'événement (hébergement, restauration, activités, divertissement, ateliers, Internet, conférence, soirées, aventure, fun, installation)
+
+----
+
+Tags: offres familiales et professionnelles séparées,rustique,simplicité
+
+----
+
+Offres: restaurant,bar,événements créatifs
+
+----
+
+Publics: entreprises,familles
+
+----
+
+Arcs: 
+
+- 
+  anarc: retraite-creative
+  percent: "100"
+
+----
+
+Sliders: 
+
+----
+
+Program: 90
+
+----
+
+Open: 100
+
+----
+
+Mix: 10
+
+----
+
+Contenu: 0
+
+----
+
+Make: 10
+
+----
+
+Neutral: 50

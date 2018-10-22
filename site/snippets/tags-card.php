@@ -5,7 +5,7 @@
 
         <h5><?= $titre ?><? e($count>0,'s') ?></h5>
         <?php foreach ($tags as $tag) : ?>
-            <a href="#">
+            <a href="<?= url('places/' . url::paramsToString(['tag' => $tag])) ?>">
                 <span class="tag">
                     <?= $tag ?>
                 </span>

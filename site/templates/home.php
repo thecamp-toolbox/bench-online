@@ -1,7 +1,41 @@
 <?php snippet('header') ?>
 
+
+<div class="container-fluid">
+
+	<section class="space-lg">
+                <img alt="Image" src="<?= $site->url() ?>/assets/images/graphic-bg-clouds-5.png" class="bg-image" />
+                <div class="container">
+                    <div class="row mb-4 justify-content-center text-center">
+                        <div class="col-12 col-md-10 col-lg-9">
+                            <h1 class="display-4">Lieux d'innovation</h1>
+                            <span class="lead"><?= $page->text()->kirbytext() ?></span>
+                        </div>
+                        <!--end of col-->
+                    </div>
+                    <!--end of row-->
+                    <!-- inscription 
+                    <form>
+                        <div class="form-row justify-content-center">
+                            <div class="col-auto col-md-5 col-lg-4">
+                                <div class="form-group">
+                                    <input class="form-control form-control-lg" type="email" name="email" placeholder="Email Address" />
+                                    <small>Nous prenons soin de votre contact</small>
+                                </div>
+                            </div>
+                            <div class="col-auto">
+                                <button type="submit" class="btn btn-lg btn-primary">Constribuer</button>
+                            </div>
+                        </div>
+                    </form>
+                	-->
+                </div>
+                <!--end of container-->
+            </section>
+            <!--end of section-->
+</div>
+
 <div class="container pt-3 pb-3">
-	<?= $page->text()->kirbytext() ?>
 
 	<div class="row">
 		<div class="col-12 pb-3">
@@ -26,11 +60,12 @@
 	<!-- end row -->
 
 	<div class="pb-3">
-		<h2>Lieux</h2>
+		<?php $places = page('places')->children() ?>
+		<h2>Lieux (<?= $places->count() ?>)</h2>
 	</div>
 
 	<ul class="row feature-list feature-list-sm">
-		<?php foreach (page('places')->children()->limit(3) as $place) : ?>
+		<?php foreach ($places->shuffle()->limit(6) as $place) : ?>
 			<?php snippet('place-card', array('place' => $place)) ?>
 		<?php endforeach ?>
 	</ul>

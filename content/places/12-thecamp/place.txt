@@ -1,0 +1,105 @@
+Prevnext: 
+
+----
+
+Title: thecamp
+
+----
+
+Baseline: Un camp de base pour explorer le futur !
+
+----
+
+Theurl: https://thecamp.fr/fr
+
+----
+
+Location: Aix-en-Provence, FR
+
+----
+
+Header: thecamp-image.jpg
+
+----
+
+Logo: galet.png
+
+----
+
+Staff: 60
+
+----
+
+Budget: 17M
+
+----
+
+Rooming: 175
+
+----
+
+State: beta
+
+----
+
+Text: 
+
+**Historique**
+
+**Aménagement du lieu **
+
+
+**Modèle d'affaire**
+
+**Gouvernance**
+
+----
+
+Tags: campus excentré
+
+----
+
+Offres: formations,ateliers,accompagnement de projets,événements créatifs,privatisation
+
+----
+
+Publics: professionnels,entrepreneurs,entreprises
+
+----
+
+Arcs: 
+
+- 
+  anarc: universite-partagee
+  percent: "50"
+- 
+  anarc: plateforme-d-experimentation-projet
+  percent: "50"
+
+----
+
+Sliders: 
+
+----
+
+Program: 70
+
+----
+
+Open: 100
+
+----
+
+Mix: 60
+
+----
+
+Contenu: 20
+
+----
+
+Make: 20
+
+----
+
+Neutral: 50

@@ -1,0 +1,115 @@
+Title: centquatre
+
+----
+
+Baseline: Un lieu infini d'art, de culture et d'innovation
+
+----
+
+Theurl: http://www.104.fr/
+
+----
+
+Location: Paris, France
+
+----
+
+Header: centquatre.jpg
+
+----
+
+Logo: centquatre_logo.png
+
+----
+
+Staff: 82
+
+----
+
+Budget: 14M
+
+----
+
+Rooming: 
+
+----
+
+State: stable
+
+----
+
+Text: 
+
+Situé dans le 19e arrondissement, le CENTQUATRE-PARIS est un espace de résidences, de production et de diffusion pour les publics et les artistes du monde entier. Pensé par son directeur José-Manuel Gonçalvès comme une plate-forme artistique collaborative, il donne accès à l’ensemble des arts actuels, au travers d’une programmation résolument populaire, contemporaine et exigeante. Lieu de vie atypique jalonné de boutiques, il offre également des espaces aux pratiques artistiques libres et à la petite enfance. Pour les start-ups qui intègrent son incubateur, il constitue un territoire d’expérimentation unique, à la croisée de l’art et de l’innovation.
+
+Un hébergement est possible pour les étrangers invités dans le cadre des programmes de résidence.
+
+Existe depuis 2008, en 2010 le changement de direction et l'arrivée de José-Manuel Gonçalves ont fait du 104 un lieu important de la culture dans le nord de Paris.
+En 2016 : 588223 visiteurs, 418 223 spectateurs, 100000 clients de commerces, 1000 participants amateurs, 20 884 spectateurs et visiteurs, 1 588 levers de rideaux, 7 expositions ou parcours d’œuvres, 327 événements différents
+
+##Impact
+
+- Des partenariats noués durablement et imaginés en co-construction
+- promotion les pratiques amateurs et spontanées 
+- Contribue au développement du territoire en proximité avec les jeunes
+- Des actions avec de très nombreuses structures scolaires et associatives à Paris et en région parisienne
+- Un accès facilité à la culture
+- mis à disposition ses espaces pour de nombreuses initiatives citoyennes de réflexions sur les territoires, la culture, la transmission… 
+
+##Mais aussi... 
+
+- Le cinq : espace dédié aux pratiques artistiques amateurs et à la vie culturelle locale du CENTQUATRE-PARIS. Il s’adresse en priorité aux habitants et aux associations des 18e et 19e arrondissements. Contre une participation forfaitaire de 2 € de l’heure, toute personne - seule, en groupe ou en association - qui développe une activité artistique en amateur sur ce territoire peut utiliser l’un des quatre ateliers de 50 à 90 m² proposés au Cinq. Cet équipement original offre également un accompagnement au développement de certains projets.
+- La Parlotte : propose des séances de conversation en français pour les non francophones. En effet une partie
+du public est composée de primoarrivants, de demandeurs d’asile (France Terre d’Asile est basé à quelques rues) ou de personnes qui sont en France depuis quelques temps mais qui maîtrisent mal le français.
+- Implication de mécènes (fondations, etc.) et partenaires média.
+
+----
+
+Tags: crêche,salle de concert,programmation pointue,ancrage territorial,rapport d'activité très détaillé
+
+----
+
+Offres: incubateur,résidences d'artistes,café,restaurant,boutiques,expositions,spectacles
+
+----
+
+Publics: grand-public,familles,startups,artistes,population locale
+
+----
+
+Arcs: 
+
+- 
+  anarc: tiers-lieu-culturel
+  percent: "90"
+- 
+  anarc: plateforme-d-experimentation-projet
+  percent: "10"
+
+----
+
+Sliders: 
+
+----
+
+Program: 10
+
+----
+
+Open: 0
+
+----
+
+Mix: 90
+
+----
+
+Contenu: 50
+
+----
+
+Make: 60
+
+----
+
+Neutral: 50

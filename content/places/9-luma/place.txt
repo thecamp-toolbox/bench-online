@@ -1,0 +1,107 @@
+Prevnext: 
+
+----
+
+Title: LUMA
+
+----
+
+Baseline: Activateur du tissu artistique, culturel, écologique, social et économique
+
+----
+
+Theurl: http://www.luma-arles.org/fr
+
+----
+
+Location: Arles, France
+
+----
+
+Header: luma.jpg
+
+----
+
+Logo: luma_logo.png
+
+----
+
+Staff: 
+
+----
+
+Budget: 
+
+----
+
+Rooming: 
+
+----
+
+State: croissance
+
+----
+
+Text: 
+
+« L'esprit de notre projet est de faire en sorte qu’il soit un activateur du tissu artistique, culturel, écologique, social et économique d’Arles et de la Camargue, dans le delta du Rhône en Méditerranée, à travers un échange et une connexion continue avec le monde et son évolution. »  Maja Hoffmann.
+
+En 2004, Maja Hoffmann crée la Fondation Luma en Suisse afin de soutenir les activités d’artistes novateurs et indépendants et d’institutions travaillant dans les arts visuels, la photographie, l’édition, les films documentaires et le multimédia. Considérée comme un outil de production pour les multiples initiatives lancées par Maja Hoffmann, la Fondation Luma produit, soutient et finance des projets artistiques audacieux qui visent à approfondir la compréhension des questions liées à l’environnement, aux droits humains, à l’éducation et à la culture.
+
+Luma Arles comprend un centre ressource conçu par l’architecte Frank Gehry ; plusieurs bâtiments industriels réhabilités par Selldorf Architects ; et un parc public dessiné par l’architecte paysagiste Bas Smets.
+Depuis sa création en 2016, Atelier Luma conduit des projets liés à six thèmes stratégiques:  Précieux déchets, Produire (dans) la ville,  Mobilité vertueuse , Hospitalité de demain,  Food Circle,  Education circulaire.
+
+Chaque année les Luma Days réunnissent plusieurs centaines de participants (professionnels et habitants) pour réfléchir à des projets de la région.
+
+Il n'y a pas d'hébergement directement associé au lieu, mais Maja Hoffmann est impliquée dans plusieurs projets d'hotellerie dans la région (dont récemment, l'hotel Arlatan), qui peuvent être mobilisés au besoin pour les projets de Luma.
+
+----
+
+Tags: artistique,édition,résidence
+
+----
+
+Offres: réfectoire,visites commentées,ateliers,expositions
+
+----
+
+Publics: artistes,familles,entrepreneurs
+
+----
+
+Arcs: 
+
+- 
+  anarc: tiers-lieu-culturel
+  percent: "80"
+- 
+  anarc: espace-transitionnel
+  percent: "20"
+
+----
+
+Sliders: 
+
+----
+
+Program: 0
+
+----
+
+Open: 60
+
+----
+
+Mix: 0
+
+----
+
+Contenu: 50
+
+----
+
+Make: 80
+
+----
+
+Neutral: 80

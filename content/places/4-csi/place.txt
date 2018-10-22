@@ -1,0 +1,102 @@
+Title: CSI
+
+----
+
+Baseline: Be a part of the solution
+
+----
+
+Theurl: https://socialinnovation.org/
+
+----
+
+Location: Toronto, Canada
+
+----
+
+Header: csi.jpg
+
+----
+
+Logo: csi_logo.jpg
+
+----
+
+Staff: 45
+
+----
+
+Budget: 
+
+----
+
+Rooming: 
+
+----
+
+State: croissance
+
+----
+
+Text: 
+
+Le **Center for Social Innovation** est une entreprise sociale basée à Toronto, au Canada, spécialisée dans la création d'espaces de travail partagés pour des personnes ou des organisations à vocation sociale. Il possède trois sites à Toronto et un à New York, qui servent d’espaces de travail partagés, de laboratoires d’innovation et de centres communautaires, où les innovateurs sociaux et aux entrepreneurs peuvent louer des bureaux privés ou des bureaux partagés ainsi que des espaces de réunion et d’événement. 
+
+Le Centre a pour mission de catalyser l'innovation sociale et de favoriser la collaboration en reliant les innovateurs sociaux et les entrepreneurs de tous les secteurs et en leur proposant des programmes tels que des ateliers, des séminaires, des concours et des opportunités de mentorat pour accélérer leur succès. CSI incube également un nombre limité d'innovations sociales en leur fournissant des services programmatiques, stratégiques, administratifs et/ou financiers.
+
+CSI a également publié plusieurs ouvrages sur la création d'espaces de travail partagés et un sur son les *community bonds* (système de financement participatif).
+
+Il a depuis son origine, développé une culture très forte autour de la diversité et de l'inclusion. Tout est fait pour créer des ponts entre les membres. Par exemple, toutes les semaines, le *salad club* invite chacun à amener des ingrédients et à cuisiner des salades ensemble ('Toutes les révolutions commencent dans une cuisine').
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/JtrtURiz97Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+----
+
+Tags: plusieurs lieux,social bonds,online community membership,transparence
+
+----
+
+Offres: co-working,conférences,programmes d'accélération,conseil,incubateur,mutualisation de compétences
+
+----
+
+Publics: entrepreneurs sociaux,travailleurs indépendants
+
+----
+
+Arcs: 
+
+- 
+  anarc: club-des-innovateurs
+  percent: "90"
+- 
+  anarc: espace-transitionnel
+  percent: "10"
+
+----
+
+Sliders: 
+
+----
+
+Program: 10
+
+----
+
+Open: 80
+
+----
+
+Mix: 90
+
+----
+
+Contenu: 30
+
+----
+
+Make: 90
+
+----
+
+Neutral: 80

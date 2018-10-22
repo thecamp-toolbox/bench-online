@@ -1,0 +1,100 @@
+Prevnext: 
+
+----
+
+Title: Co-project
+
+----
+
+Baseline: A brain SPA for creative optimists
+
+----
+
+Theurl: https://www.coproject.co/
+
+----
+
+Location: Serra, Santarem, Portugal
+
+----
+
+Header: brainspa.jpg
+
+----
+
+Logo: coproject_logo.png
+
+----
+
+Staff: 
+
+----
+
+Budget: 
+
+----
+
+Rooming: 15
+
+----
+
+State: beta
+
+----
+
+Text: 
+
+A brain spa is a place where you go to get your neurons recharged. So many burnt-out creatives try to get their energy back by having their bodies worked on, and whilst this is nice (who doesn't like a long massage!, And yes we can arrange this too), it's often our brains that need the recharge through reflection, connection and creativity. 
+The Brain Spa concept is about creating a space for regeneration of the mind as much as the body, in nature, with incredible people, nourishing food and the experiential learning to take back to your busy productive change-making life.
+This is the UNSCHOOL'S CO PROJECT campus in sunny portugal : an experiment into rural regeneration, sustainability and creative change-making.
+
+----
+
+Tags: méthodologies,ancien moulin à huile,immersion,zero waste ambition,ferme
+
+----
+
+Offres: life experience,vegeterian food,the disruptive design method,systems thinking,circular economy tools,creative leadership,retraites
+
+----
+
+Publics: individus,entrepreneurs sociaux,entrepreneurs,entreprises
+
+----
+
+Arcs: 
+
+- 
+  anarc: retraite-creative
+  percent: "80"
+- 
+  anarc: espace-transitionnel
+  percent: "20"
+
+----
+
+Sliders: 
+
+----
+
+Program: 50
+
+----
+
+Open: 100
+
+----
+
+Mix: 10
+
+----
+
+Contenu: 60
+
+----
+
+Make: 90
+
+----
+
+Neutral: 90

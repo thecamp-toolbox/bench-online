@@ -44,9 +44,11 @@
                             
                         </div>
                         <ul class="list-inline text-small d-inline-block mt-2">
+                            <!-- compatibilité 
                             <li class="">
                                 <i class="fas fa-copy mr-1"></i> Compatibilité : 75%
                             </li>
+                            -->
                             <?php if ($page->theurl() != '') : ?>
                                 <li>
                                     <a href="<?= $page->theurl() ?>" target="_blank">

@@ -1,0 +1,124 @@
+Prevnext: 
+
+----
+
+Title: NUMA
+
+----
+
+Baseline: Libérez votre potentiel d’innovation pour anticiper le futur
+
+----
+
+Theurl: https://www.numa.co/
+
+----
+
+Location: Paris, FR
+
+----
+
+Header: numa-image.jpg
+
+----
+
+Logo: numa-logo.png
+
+----
+
+Staff: 50
+
+----
+
+Budget: 3 000000
+
+----
+
+Rooming: 0
+
+----
+
+State: croissance
+
+----
+
+Text: 
+
+**Historique : **
+En 2000, l'association Silicon Sentier est lancée par des entrepreneurs du web implantés dans le Sentier pour bénéficier des hauts débits de connexion disponibles grâce à la Bourse, avec comme mission première l'éducation du grand public au numérique et la création d'un écosystème numérique français fort. L'association fédère petit-à-petit plus de 180 entreprises (startups, PMEs) actives dans le Web.  En 2008, les entrepreneurs de Silicon Sentier cherchent un endroit où partager leurs connaissances, leur expérience et se réunir régulièrement avec leurs utilisateurs. Ils créent alors La Cantine, le premier espace de travail collaboratif en réseau (« coworking space ») en Île-de-France. Le bâtiment de La Cantine est situé Passage des Panoramas. Plus de 1500 événements y sont organisés, autour de l'open source, l'innovation sociale, la robotique, UX, les développeurs mobiles, ou d'initiatives locales (Social Media Club, Barcamp, Mobile Monday, Crisis Camp, TED, FLOSS). À partir de 2010, se développe un Réseau national des Cantines à Rennes, Nantes, Toulouse, Brest, Angers, Toulon. 
+
+En 2011, Silicon Sentier lance Le Camping, le premier accélérateur pour start-up en France. Situé à l'intérieur du vieux bâtiment de la Bourse de Paris, Le Camping accueille deux fois par an 12 start-ups qui bénéficient d'un programme d'accélération intensive, entraînées pendant six mois par quarante mentors. Le programme est gratuit pour les startups et ouvert à des participants internationaux. Son principal objectif est d'accélérer le développement de technologies prometteuses et d'améliorer les compétences de leurs équipes.
+
+En 2011 également, Silicon Sentier lance Silicon Xperience : un pôle de recherche et d'expérimentation centré sur les utilisateurs et les usages basé à La Cantine. L'objectif de Silicon Xperience est de mener des bêta-tests, des expérimentations de terrain et des initiatives promouvant l'innovation ouverte afin de rapprocher les utilisateurs et les entreprises. Il s'agit d'un des premiers programmes d'open innovation en France
+
+En  2013, l'association Silicon Sentier regroupe ses différentes activités au sein d'un seul lieu, au cœur du Sentier, à Paris et prend officiellement le nom de NUMA (contraction de NU-mérique et hu-MA-in). Cette évolution s'accompagne d'une volonté de développement international, plus particulièrement dans les pays émergents. Ce développement s'appuie systématiquement sur un partenaire ancré localement. 
+En 2015, NUMA ouvre NUMA Moscow, en Russie, en partenariat avec Ob'vious12, puis NUMA Bengaluru, à Bangalore en Inde, en partenariat avec l’espace de coworking local Cobalt BLR13, et NUMA Casablanca, en partenariat avec Eiréné 4 Impact.
+
+En 2015, NUMA décide de se transformer en entreprise et mène une opération de financement participatif en actions nommée #YesWeCrowd. En 44 jours, un million d’euros fut récolté auprès de 330 investisseurs. En septembre 2015, NUMA annonce une seconde levée de fonds auprès de MAIF, ADEO, Leroy Merlin et Roland Berger.
+
+En 2016, NUMA ouvre NUMA Barcelone en partenariat avec le fonds mVenturesBcn, puis NUMA Mexico, NUMA Montpellier, NUMA Toulouse, NUMA Berlin et NUMA New York l'année suivante.
+
+En 2017, NUMA lance sa "Mission 2030", une série de programmes destinés à apporter une réponse technologique pertinente aux questions mondiales les plus urgentes à horizon 2030, soit la santé, l'éducation, la mobilité, l'énergie, l'alimentation, le futur du travail, la transparence et la sécurité du web21, dont font partie le programme DataCity et l'événement Tech For Planet, co-organisé avec l'Élysée. 
+
+**Aménagement **
+Le lieu du NUMA est un immeuble de 5 étages totalisant 1700m2. Sa gestion se fait par étage, ce qui permet de gérer à la fois le degré d'ouverture au grand public et les différents usages des espaces : 
+- le rez-de-chaussée rassemble le NUMA café, un café coworking ouvert au grand public, et le Pavillon, un espace de test/démonstration et évènementiel composé d'espaces  #AR #VR tout équipés ouvert au grand public sur certains créneaux précis
+- aux étages suivants : La Pulse, l’Atelier, et La Créativity : espace modulables (de la réunion à l’atelier de yoga) d’une capacité de 19 personnes, avec espace de convivialité attenant. La Terrasse, espace modulaire adapté aux workshops ou évènementiel privé clé en mains d'une capacité de 120 personnes. 
+
+**Modèle d'affaire**
+Une activité rentable: la location d'espaces,  la vente de formations et de format d'accompagnement de workshops ou de programmes d'expérimentation, l'incubation de startups
+Mais également une grande énergie consacrée à l'animation du lieu, à l'organisation de temps d'échanges, d’évènements gratuits, un café ouvert à tous
+
+----
+
+Tags: espace café coworking,franchises à l'international
+
+----
+
+Offres: formations,café,coworking,location de salles de réunion,animation d'écosystème,organisation d'évènements,location d'espaces évènementiels
+
+----
+
+Publics: entrepreneurs,grandes entreprises,grand-public
+
+----
+
+Arcs: 
+
+- 
+  anarc: espace-transitionnel
+  percent: "40"
+- 
+  anarc: club-des-innovateurs
+  percent: "50"
+- 
+  anarc: plateforme-d-experimentation-projet
+  percent: "10"
+
+----
+
+Sliders: 
+
+----
+
+Program: 50
+
+----
+
+Open: 50
+
+----
+
+Mix: 40
+
+----
+
+Contenu: 30
+
+----
+
+Make: 20
+
+----
+
+Neutral: 20

@@ -11,7 +11,10 @@
 	font-family: MarkProMed;
     src: url(../fonts/MarkPro-Medium_ALt.otf);
 }
-
+blockquote {
+	border-left: 2px solid grey;
+	padding-left: 12px;
+}
 .markpromed {
 	font-family: MarkProMed;
 }
@@ -51,6 +54,18 @@
 }
 .tag:first-letter {
 	text-transform: uppercase;
+}
+.place-card>.card-body {
+	position: relative;
+}
+.place-card .move-up {
+	position: absolute;
+	top: -30px;
+}
+.avatar-60 {
+	border: solid 1px grey;
+	position: relative;
+	top: -3px;
 }
 a .card-text {
 	color: #495057;

@@ -1,5 +1,5 @@
 <li class="col-12 col-md-6 col-lg-4">
-    <div class="card">
+    <div class="card place-card">
         <a href="<?= $place->url() ?>">
         	<?php if ($place->header() != '') : ?>  
         		<?php $header = $place->header()->toFile() ?>
@@ -7,11 +7,19 @@
            		<img class="card-img-top" src="<?= $header->url() ?>" alt="Card image cap">
            	<?php endif ?>
         </a>
-        <div class="card-body">
-            <a href="<?= $place->url() ?>">
-                <h4 class="card-title markpromed"><?= $place->title() ?></h4>
-                <p class="card-text italic">"<?= $place->baseline() ?>"</p>
-            </a>
+        <div class="card-body pb-1">
+            <div class="d-flex align-items-end move-up">
+                <?php if ($place->logo() != '') : ?>
+                    <?php $logo = $place->logo()->toFile() ?>
+                    <?php $logo = $logo->crop(60,60) ?>
+                    <img alt="Image" src="<?= $logo->url() ?>" class="avatar avatar-60 rounded mr-2" />
+                <?php endif ?>
+                <a href="<?= $place->url() ?>">
+                    <h4 class="card-title markpromed"><?= $place->title() ?></h4>
+                </a>
+
+            </div>
+            <p class="mt-4 card-text italic baseline"><?= $place->baseline()->kirbytext() ?></p>
         </div>
         <div class="card-footer card-footer-borderless d-flex justify-content-between">
             <div class="text-small w-100">

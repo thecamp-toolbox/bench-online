@@ -1,0 +1,113 @@
+Title: Moho
+
+----
+
+Baseline: 1er collider européen
+
+----
+
+Theurl: 
+
+----
+
+Location: Caen, France
+
+----
+
+Header: moho.jpg
+
+----
+
+Logo: moho_logo.jpg
+
+----
+
+Staff: 
+
+----
+
+Budget: 
+
+----
+
+Rooming: 
+
+----
+
+State: project
+
+----
+
+Text: 
+
+MoHo, le premier « COLLIDER » en Europe : un lieu disruptif, ambitieux, inspirant, ouvert au grand public et invitant tous les acteurs à innover, collaborer et grandir ensemble.
+
+Le principe du COLLIDER consiste à faire vivre de manière pérenne et continue, des populations différentes pour les faire travailler, innover et grandir ensemble.
+
+L’aménagement intérieur sera particulièrement modulable avec 600 sièges, un amphithéâtre nouvelle génération, des salles de créativité, un studio TV/photo, une salle de conférence, des espaces évènementiels prémium. MoHo sera également un lieu de vie avec :
+
+- des espaces détente,
+- un espace enfants,
+- un terrain multisports,
+- une salle de yoga, une salle de sieste, etc,
+- 6 zones d’espaces verts.
+
+Un espace de 7 500 m2 dont 5 000 m2 de plain-pied, sera totalement réhabilité avec l’ambition d’incarner la collaboration, l’open Innovation, la volonté d’avoir un impact à l’international et soutenir l’esprit d’entreprendre pour relever les challenges d’aujourd’hui.
+
+Budget d'ouverture : 17M.
+
+Les différents espaces sont pensés comme modulables en fonction des usages sur une journée ou une année.
+Certains espaces « abonnés » s’ouvriront par exemple au public à l’occasion de conférences ou de soirée (ex : amphithéâtre, salle de conférence) ; ces espaces seront par ailleurs utilisés parfois par les abonnés comme salle de cours, d’autres fois comme salle de réunion ou lieu de détente.
+
+Date d’ouverture prévue : printemps 2019
+
+----
+
+Tags: fonds de dotation,mécènes,plusieurs co-fondateurs,bâtiment durable,modularité
+
+----
+
+Offres: co-working,restaurant,café
+
+----
+
+Publics: entrepreneurs,startups
+
+----
+
+Arcs: 
+
+- 
+  anarc: espace-transitionnel
+  percent: "80"
+- 
+  anarc: tiers-lieu-culturel
+  percent: "20"
+
+----
+
+Sliders: 
+
+----
+
+Program: 30
+
+----
+
+Open: 50
+
+----
+
+Mix: 90
+
+----
+
+Contenu: 10
+
+----
+
+Make: 90
+
+----
+
+Neutral: 30

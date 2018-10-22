@@ -1,0 +1,104 @@
+Prevnext: 
+
+----
+
+Title: AMS Intitute
+
+----
+
+Baseline: Engineering the future city
+
+----
+
+Theurl: https://www.ams-institute.org/
+
+----
+
+Location: Amsterdam, NL
+
+----
+
+Header: ams-image.jpg
+
+----
+
+Logo: amslogo.jpg
+
+----
+
+Staff: 
+
+----
+
+Budget: 
+
+----
+
+Rooming: 0
+
+----
+
+State: croissance
+
+----
+
+Text: 
+
+L’AMS est un institut public-privé basé à Amsterdam, dont les objectifs sont :
+- De devenir un institut international de formation de premier plan (Msc MADE, summer school, MOOCs)
+- De permettre le développement et la valorisation conjointe de solutions métropolitaines interdisciplinaires, centrées sur la technologie appliquée aux enjeux urbains 
+- De déployer ces solutions sur le territoire
+
+----
+
+Tags: le lieu n’est pas le cœur de la stratégie,c’est l’expérimentation sur le territoire qui est structurante
+
+----
+
+Offres: formations,mooc,accompagnement de projets,appel à projets avec fond associé
+
+----
+
+Publics: entreprises,universités
+
+----
+
+Arcs: 
+
+- 
+  anarc: plateforme-d-experimentation-projet
+  percent: "50"
+- 
+  anarc: universite-partagee
+  percent: "30"
+- 
+  anarc: purpose-driven-center
+  percent: "20"
+
+----
+
+Sliders: 
+
+----
+
+Program: 50
+
+----
+
+Open: 100
+
+----
+
+Mix: 100
+
+----
+
+Contenu: 90
+
+----
+
+Make: 80
+
+----
+
+Neutral: 80
