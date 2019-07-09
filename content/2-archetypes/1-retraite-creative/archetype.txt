@@ -1,0 +1,62 @@
+Title: Retraite créative
+
+----
+
+Baseline: Un lieu extraordinaire pour faire naitre des personnalités extraordinaires
+
+----
+
+Text: 
+
+La ‘retraite créative’ est un lieu hors du temps où on peut aller passer quelques jours à quelques semaines pour s’inspirer et recharger ses ‘batteries créatives’. Installée en général dans un lieu isolé, elle cherche à créer un ‘effet bulle’ qui protège les participants des tracas de leur vie quotidienne. L’accent est mis sur l’expérience du visiteur qui se doit d’être ultra inspirante, souvent en rapport direct avec la nature. Dans cette optique, les capacités d’hébergement ont tendance à être installées dans des endroits inspirants et/ou insolites et les expériences s’appuient souvent sur des choses simples (nourriture fraiche et locale, feu de camp, cueillette, rusticité, production manuelle, etc.). Une partie des activités est liée au bien-être et les pratiques de vie saines sont encouragées (yoga, mindfulness, méditation, etc.). Même s'ils partagent des caractéristiques, chaque lieu est unique et à tendance à mettre en avant son histoire et celle de ses fondateurs. 
+
+On y trouve en général tout ce qu’il faut (ateliers, outils, réseau, etc.) pour développer un projet individuel ou collectif. Certains lieux sont ‘spécialisés’ (entrepreneuriat social, reconversion, maker, etc.) alors que d’autres revendiquent justement la richesse issue de la diversité des profils qui y passent. Des événements thématiques rythment en général l’activité du lieu, se répétant d'une année sur l'autre (festivals).
+
+La retraite créative s'appuie sur le principe que, dans les métiers créatifs modernes, la frontière entre repos et travail est fine, et même que c’est en reposant son cerveau et en le confrontant à d’autres choses qu’on va être le plus créatif (et productif). Certains lieux poussent la notion de ‘workation’ (work+vacation), alors que d’autres poussent à la déconnexion complète.
+
+----
+
+Fas: leaf
+
+----
+
+Program: 70
+
+----
+
+Open: 100
+
+----
+
+Mix: 50
+
+----
+
+Contenu: 10
+
+----
+
+Make: 80
+
+----
+
+Neutral: 70
+
+----
+
+Thecol: #00ad51
+
+----
+
+Pp: 
+
+- 
+  thep: "Il faut sortir du 'quotidien' pour pouvoir prendre le temps de réfléchir et prendre de la hauteur"
+- 
+  thep: >
+    Un lieu extraordinaire donne des
+    résultats extraordinaires
+- 
+  thep: >
+    Les meilleures idées arrivent quand on
+    est relaxé et près de la nature

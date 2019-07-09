@@ -1,0 +1,73 @@
+Title: Espace transitionnel
+
+----
+
+Baseline: Se préparer ensemble au monde de demain
+
+----
+
+Fas: city
+
+----
+
+Text: 
+
+L'espace transitionnel porte la notion de transition sous deux aspects : 
+
+- il s'appuie sur l'urbanisme transitoire (en réhabilitant des espaces vancants en ville ou en périphérie) 
+- il se veut acteur des différentes transitions en cours ou à venir (écologique, sociale, etc.)
+
+C'est un lieu en mouvement pour tester au quotidien les modes d'organisations de demain. 
+
+Leur fonctionnement s’appuie en grande partie sur la participation volontaire (des membres hébergés et autres) et ils cherchent à encourager les initiatives *bottom-up*, en s’appuyant sur des méthodes d’animation participatives et l’échange pair-à-pair. En ce sens, ils explorent souvent de nouvelles formes de démocratie participative. 
+
+Ils mettent à disposition une série d’outils et de méthodologies tournés vers la mise en capacité et l’autonomisation (*empowerment*) et ont tendance à favoriser la création de communs. 
+
+Ces lieux sont fortement ancrés dans leur territoire (bloc, quartier, ville, région) et sont souvent vus comme des outils pour redynamiser un quartier ou un lieu en transition à travers la création de lien social. Ils s’appuient sur l’utilisation temporaire - plus ou moins autorisée - de lieux vacants (urbanisme transitoire).
+
+On y retrouve souvent des projets portant sur des thématiques comme l’alimentation (agriculture urbaine, circuits courts, cuisine collaborative, etc.), les problématiques sociales (inclusion, diversité, précarité, retour à l’emploi, etc.), la culture (production artistique, diffusion, etc.) ou la technologie (fabrication numérique, code open source, diybio, etc.).
+
+Ils sont souvent ouverts au grand public - au moins dans une certaine mesure - à travers une programmation participative et une partie de leurs modèles d’affaire s’appuie généralement sur la restauration ou le bar.
+
+----
+
+Program: 0
+
+----
+
+Open: 0
+
+----
+
+Mix: 100
+
+----
+
+Contenu: 20
+
+----
+
+Make: 100
+
+----
+
+Neutral: 90
+
+----
+
+Thecol: #e0a800
+
+----
+
+Pp: 
+
+- 
+  thep: "Le changement passe d'abord par la base (les gens)"
+- 
+  thep: >
+    Il faut rendre les gens acteurs de leur
+    propre transformation (encapacitation)
+- 
+  thep: "On ne peut pas tout controler. Il faut créer les conditions pour que l'imprévu se passe (sérendipité etc.)"
+- 
+  thep: Les gens qui sont là sont les bons

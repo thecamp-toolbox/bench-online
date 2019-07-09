@@ -1,1 +1,5 @@
 Title: Home
+
+----
+
+Text: Que sont-ils ? À quoi servent-ils ? Les quels sont les plus intéressants ? Cette base de donnée collaborative cherche à illustrer quelques exemples pertinents à travers une classification imaginée par thecamp ((link: /a-propos text: marqueurs / archétypes)).

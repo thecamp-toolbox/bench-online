@@ -1,0 +1,138 @@
+Prevnext: 
+
+----
+
+Title: Tuba
+
+----
+
+Baseline: Co-construire ensemble la ville de demain
+
+----
+
+Theurl: http://www.tuba-lyon.com/
+
+----
+
+Location: Lyon, France
+
+----
+
+Header: tuba2.jpg
+
+----
+
+Logo: logo_tuba_noir.png
+
+----
+
+Staff: 7
+
+----
+
+Budget: 
+
+----
+
+Rooming: 0
+
+----
+
+State: croissance
+
+----
+
+Text: 
+
+##Tube à expérimentations urbaines
+
+**Historique**
+Le TUBÀ, lieu d’innovation et d’expérimentation pour la ville de demain, est porté par l’association Lyon Urban Data et ouvert en 2014. 
+
+L'association « Lyon Urban Data » réunit depuis 2011 des acteurs publics et privés qui ont la volonté de créer une dynamique autour de la thématique de la « Ville intelligente ». Ce projet s’est traduit par la création d’une association loi 1901 « Lyon Urban Data » en 2014  avec pour activité officielle « représentation et défense d'intérêts économiques ». Dans le cadre de la stratégie smart city (« Grand Lyon Métropole Intelligente ») portée par la métropole le Grand Lyon depuis 2012, l’association « Lyon Urban Data » a eu pour mission de :
+- Monter, accompagner et accélérer la co-création et l’expérimentation de nouveaux services et donc contribuer à la démarche « Grand Lyon Métropole Intelligente »,
+- Mettre en place et développer un Living Lab destiné à tester en grandeur nature des services, des outils ou des usages nouveaux autour de cette thématique, en coopération avec les entreprises, des laboratoires de recherche, les collectivités locales ainsi que des utilisateurs,
+- Favoriser l’innovation ouverte, partager les réseaux et impliquer les utilisateurs dès le début de la conception,
+- Permettre à ses membres de mettre en œuvre tout un programme nécessaire, en opérant notamment une mutualisation de leurs compétences et de leurs moyens respectifs.
+
+C'est pour mettre en œuvre ces missions que l’association « Lyon Urban Data » a créé et porte le TUBÀ, lieu d’innovation et d’expérimentation pour la ville de demain, qui a pour objectif de favoriser l’innovation, l’incubation et le développement de services urbains en s’appuyant sur les données numériques privées et publiques. 
+
+Dans ce cadre, le TUBÀ a pour mission d’aider au développement de services innovants notamment autour de l'ouverture des données publiques et privées, tout en privilégiant la participation des citoyens à cette dynamique de création et d’innovation. Ces innovations de produits et services qui auront démontré leur intérêt au cours des expérimentations ont vocation à être accompagnés pour une mise sur le marché accélérée. 
+
+(link: http://www.tuba-lyon.com/le-tuba-itineraire-dun-lieu-en-mouvement/ text: Plus d'informations ici)
+
+**Aménagement du lieu**
+Le TUBA disposait dans un premier temps d'un local de 600m2 sur deux étages à proximité immédiate de la gare de Lyon-Part-Dieu, comprenant: 
+- Le TUBÀ-LAB au rez-de-chaussée, un espace ouvert à tous  du lundi au vendredi de 9h à 18h, libre et gratuit, de 180m2 rassemblant un espace de coworking nomade qui propose un espace café (self service et à prix libre), et un espace showroom / expérimentation / partage de connaissance ouvert à tous pour que les citoyens puissent tester les innovations d’expérimentation, de sensibilisation et de partage des connaissances du TUBÀ (cet espace d'expérimentation a ensuite été fermé en raison des difficulté d'animation et de fréquentation de cet espace). Pendant un temps, une startup partenaire (Le Moulin à Salades) a également proposé une offre de restauration. 
+- Le TUBÀ-MIX, à l’étage, est un laboratoire urbain collaboratif dédié aux entreprises 420 m2 comportant plusieurs espaces différenciés : un espace café, une salle de repos, un espace de coworking  à destination de starts ups hébergées sur place (environ 8), et trois salles de réunion avec ambiance différenciée.
+
+En 2018, le TUBA a déménagé vers un espace de 800m2, toujours en centre-ville (145 Cours Lafayette).
+
+**Programmation**
+En parallèle d'une offre de coworking à destination de startups innovantes, le TUBA propose différents services d'aide à l'expérimentation urbaine collaborative en proposant des programmes d'innovations impliquant acteurs publics, grands acteurs privés, et petites entreprises innovantes. 
+
+De nombreux événements sont également destinés aux citoyens, autour de sujets comme le (link: http://www.tuba-lyon.com/event/lundi-des-citoyens-comment-reduire-le-gaspillage-alimentaire/ text: gaspillage alimentaire).
+
+**Modèle d'affaire**
+Le rôle moteur de la métropole dans la constitution du TUBA s’est traduit par un subventionnement (investissement et fonctionnement) pendant les 3 premières années. Le TUBA a ensuite diversifié ses sources de financement :
+- 20 à 25% du budget actuel du TUBA provient de la métropole, par le biais de l’implication en tant que prestataire dans un marché public d’innovation et d’expérimentation sur les sujets de la ville de demain (avec 6 autres structures). Plus spécifiquement, le TUBA y assure la phase de test et d’expérimentation pour tout ce qui touche à l’analyse de données numériques. 
+- 70% du budget vient des grands groupes, par le biais d’un système de ticket d’entrée fixé à 50 000 euros par an, qui permet le fonctionnement des projets. 
+- Une part variable de fonds européens / nationaux, en fonction des appels à projets remportés : FEDER, ANR, H2020. 
+
+L’association fédère quarante partenaires publics et privés et met en avant une démarche collaborative et participative. Il s’y rencontre collectivités, grands groupes, PME, startup, laboratoires de recherches et citoyens pour collaborer au sein du TUBÀ pour concevoir et expérimenter des solutions innovantes afin de bien vivre en ville.
+
+**Gouvernance**
+Le TUBÀ est présidé par Philippe Lagrange, Directeur adjoint de la Délégation France, Veolia Environnement, et sa directrice est Léthicia Rancurel, membre de Lyon French Tech et secrétaire nationale des technologies propres et de la mobilité de La French Tech. Le TUBÀ a mis en place un COS (Comité d’Orientation Scientifique) composé d'experts scientifiques (sciences dures et sciences humaines) afin d'évaluer et d'aider au montage des projets, de mettre en contact les porteurs de projets avec partenaires académiques ou industriels, de lever les verrous technologiques ou scientifiques des projets présentés et d'accompagner des collaborations avec des labos de recherche le cas échéant.
+
+L’équipe qui opère le TUBÀ au quotidien est composée de 5 profils fixes, dont chacun est spécialisé vers une cible : médiation citoyenne, PMEs, startups, ...
+
+----
+
+Tags: data,lien public-privé,espace café coworking
+
+----
+
+Offres: événements créatifs,co-working,open-innovation,expérimentation
+
+----
+
+Publics: entrepreneurs,grandes entreprises,grand-public
+
+----
+
+Arcs: 
+
+- 
+  anarc: plateforme-d-experimentation-projet
+  percent: "80"
+- 
+  anarc: espace-transitionnel
+  percent: "20"
+
+----
+
+Sliders: 
+
+----
+
+Program: 10
+
+----
+
+Open: 40
+
+----
+
+Mix: 90
+
+----
+
+Contenu: 10
+
+----
+
+Make: 10
+
+----
+
+Neutral: 10

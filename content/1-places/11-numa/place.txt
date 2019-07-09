@@ -30,7 +30,7 @@ Staff: 50
 
 ----
 
-Budget: 3 000000
+Budget: 3M
 
 ----
 

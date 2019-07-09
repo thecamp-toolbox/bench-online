@@ -1,0 +1,64 @@
+Title: Université partagée
+
+----
+
+Baseline: Développez les compétences de demain et devenez ‘future-proof’
+
+----
+
+Text: 
+
+L'université du futur est portée par la conviction que les disruptions en cours et à venir (IA, industrie 4.0, blockchain, IoT, etc.) s’apprêtent à balayer les modes de travail existants et que la grande majorité de la force de travail actuelle n’est pas adaptée. Elle cherche donc à former le plus de monde possible aux compétences de demain (souvent liées de près ou de loin au numérique).
+
+Elle s’appuie en général sur une pratique (*design thinking*, *user centered design*, *leadership*, etc.) ou une combinaison de pratiques sur lesquelles elle cherche à se positionner comme référence, en publiant (en ligne ou dans des livres), en participant à des conférences et parfois à travers une activité de recherche. Elle laisse aussi de la place pour le développement personnel, sous des formes variées. Elle développe une ingénierie pédagogique adaptée, en amélioration permanente, et s’appuie sur un réseau d’intervenants de qualité, engagés chacun dans leur domaine.
+ 
+Elle est basée sur un lieu ou un réseau de lieux, dans lesquels on retrouve des espaces accueillants et modulaires, dédiés à différentes pratiques de travail (seul, en ligne, en groupe, etc.).
+
+Elle s’appuie de plus en plus sur des contenus en ligne et concentre les moments de rencontre sur des moments clés à forte valeur ajoutée, en prêtant attention à la manière dont ceux-ci sont animés (facilitation de workshops). Elle fait la part belle aux échanges pair-à-pair, en brouillant la limite entre sachant et apprenant. Elle cherche à développer des parcours individualisés et adaptés au niveau et aux intérêts de chacun. Elle s’appuie sur le ‘mode projet’ pour créer des situations d’apprentissage autonome et a souvent une composante ‘pratique’ *hands-on* (Arduino, maker, etc.).
+
+----
+
+Fas: graduation-cap
+
+----
+
+Program: 70
+
+----
+
+Open: 80
+
+----
+
+Mix: 60
+
+----
+
+Contenu: 80
+
+----
+
+Make: 20
+
+----
+
+Neutral: 10
+
+----
+
+Thecol: #2f009e
+
+----
+
+Pp: 
+
+- 
+  thep: "Le futur arrive et il faut s'y préparer"
+- 
+  thep: >
+    Convictions claires sur les compétences
+    principales à développer pour demain
+- 
+  thep: >
+    Le changement social passe par le
+    changement individuel

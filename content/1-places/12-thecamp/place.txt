@@ -1,0 +1,114 @@
+Prevnext: 
+
+----
+
+Title: thecamp
+
+----
+
+Baseline: Un camp de base pour explorer le futur !
+
+----
+
+Theurl: https://thecamp.fr/fr
+
+----
+
+Location: Aix-en-Provence, FR
+
+----
+
+Header: thecamp-image.jpg
+
+----
+
+Logo: galet.png
+
+----
+
+Staff: 60
+
+----
+
+Budget: 17M
+
+----
+
+Rooming: 175
+
+----
+
+State: beta
+
+----
+
+Text: 
+
+thecamp veut trouver de nouvelles approches à des défis universels, et fédérer des personnes et des projets animés du même enthousiasme pour créer le futur dont nous soyons tous responsables.
+
+Pour changer les choses concrètement dans des secteurs comme l’alimentation, la mobilité, l’énergie, mais aussi le futur du travail ou l’intelligence artificielle, thecamp permet aux individus et organisations de se former et accompagne les enjeux de transformation ; accueille et crée des conférences, meet-ups, hackathons ; mène des actions de terrain liées à la création collaborative, l’expérimentation, l’accélération de l’innovation, la jeunesse ou encore l’intérêt général.
+
+**Historique**
+
+thecamp a été initié en 2013 par Frédéric Chevalier. Il en a assuré la présidence jusqu'en juillet 2017 avant de disparaître dans un accident. Celui-ci a consacré toute son énergie et son enthousiasme à thecamp, dans une infatigable quête de solutions pour contribuer à rendre ce monde plus humain et plus durable.
+
+Le fondateur y a investit une partie de sa fortune personnelle et une vingtaine de partenaires fondateurs (parmi les plus grandes entreprises françaises) ont chacune contribué au projet. 
+
+**Aménagement du lieu **
+
+Le campus est situé au cœur de 7 hectares de nature, à la lisière d’Aix-en-Provence et Marseille, les 10 000m2 de bâtiments futuristes dessinés par l’architecte Corinne Vezzoni renvoient aux campements nomades pour leur versatilité et leur symbiose avec l’environnement. 
+
+**Gouvernance**
+
+Plusieurs entités se retrouvent sous l'ombrelle thecamp : la SAS, qui fournit le service aux organisations ; le Fonds de dotation qui gère les activités *non-profit* et différentes associations. L'incubateur de start-ups est géré par le Village Crédit Agricole.
+
+----
+
+Tags: campus excentré,fonds de dotation,lien public-privé,partenaires fondateurs
+
+----
+
+Offres: formations,ateliers,accompagnement de projets,événements créatifs,privatisation
+
+----
+
+Publics: professionnels,entrepreneurs,grandes entreprises
+
+----
+
+Arcs: 
+
+- 
+  anarc: universite-partagee
+  percent: "50"
+- 
+  anarc: plateforme-d-experimentation-projet
+  percent: "50"
+
+----
+
+Sliders: 
+
+----
+
+Program: 70
+
+----
+
+Open: 100
+
+----
+
+Mix: 60
+
+----
+
+Contenu: 20
+
+----
+
+Make: 20
+
+----
+
+Neutral: 50

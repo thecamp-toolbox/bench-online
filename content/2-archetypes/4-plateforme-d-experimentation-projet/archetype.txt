@@ -2,7 +2,7 @@ Title: Plateforme d'expérimentation projet
 
 ----
 
-Baseline: Inventons ensemble les solutions aux problèmes de notre temps
+Baseline: Inventons ensemble les solutions aux problèmes de notre temps
 
 ----
 
@@ -14,9 +14,11 @@ Afin d’avoir une approche systémique et de maximiser son impact, elle fédèr
 
 Elle réunit au même endroit (ou dans un même réseau) toutes les capacités de production nécessaires au développement d’un projet. En lien avec les laboratoires de recherche, elle facilite le transfert de technologie en faisant émerger des nouveaux usages et nouveaux modèles d’affaire.
 
-À la manière des living labs, elle maîtrise une variété de méthodologies (et outils) permettant d’impliquer des utilisateurs (ou citoyens) aux différentes étapes du processus de conception. En véritable chef d’orchestre, elle organise les contributions de chacun des partenaires (et potentiellement, les contributions extérieures) et assure le partage de la valeur créée (pas seulement monétaire) en s'appuyant sur des mécanismes innovants de gestion de la propriété intellectuelle.
+À la manière des living labs, elle maîtrise une variété de méthodologies (et outils) permettant d’impliquer des utilisateurs (ou citoyens) aux différentes étapes du processus de conception. En véritable chef d’orchestre, elle organise les contributions de chacun des partenaires (et potentiellement, les contributions extérieures) et assure le partage de la valeur créée (pas seulement monétaire). Elle s'appuie ensuite sur des mécanismes innovants de gestion de la propriété intélectuelle 
 
 Elle sait formuler des hypothèses et mettre en place facilement, grâce à son réseau, les conditions d’expérimentation adéquates. Elle maîtrise ensuite de véritables ressources et méthodologies d’évaluation et de feedback. Elle s’appuie sur des pratiques agiles pour améliorer ces projets de manière itérative.
+
+Elle inclut souvent un aspect de 'mise en abyme' où le projet lui-même est considéré comme une expérimentation, dont les différents aspects sont régulièrement mesurés en vue d'être améliorés.
 
 ----
 
@@ -53,3 +55,19 @@ Thecol: #53008f
 ----
 
 Pp: 
+
+- 
+  thep: >
+    Le changement passe par des projets
+    ambitieux et fondateurs
+- 
+  thep: >
+    Le changement passe par la mobilisation
+    de tous les acteurs différents
+    (approche systèmique)
+- 
+  thep: >
+    On a pas toutes les réponses et il faut
+    expérimenter
+- 
+  thep: "Les solutions aux défis de notre époque passent par une nouvelle forme d'ingénierie de projet"

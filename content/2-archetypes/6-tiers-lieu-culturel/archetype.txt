@@ -1,0 +1,66 @@
+Title: Tiers-lieu culturel
+
+----
+
+Baseline: La culture pour 'faire société'
+
+----
+
+Fas: music
+
+----
+
+Text: 
+
+Le tiers-lieu est un joyeux bazar, en perpétuelle évolution, à s'approprier. La notion de tiers-lieu, popularisée par le sociologue américain Ray Oldenbourg fait référence à une typologie d’espaces ‘intermédiaires’ qui ne sont ni la maison, ni le travail. Il décrit des lieux où l’on prend plaisir à se rassembler, où l’on tient des conversations, où l’on échange. Il est une sorte d’agora, ni publique, ni privée, mais les deux en même temps. Une variété de lieux s’en inspirent et s’en revendiquent aujourd'hui, des bibliothèques aux fablabs, des écoles aux anticafés.
+
+Les tiers-lieux sont en général fortement ancrés dans leur territoire (bloc, quartier, ville, région) et peuvent même être vus comme des outils pour redynamiser un quartier ou un lieu en transition à travers la création de lien social. Ils s’appuient parfois sur l’utilisation temporaire de lieux vacants, comme les espaces transitionnels (urbanisme transitoire).
+
+Tout dans les tiers-lieux cherche à créer les conditions de l’émergence. Ils offrent aux utilisateurs un cadre de participation clair (“pas de spectateurs, tous participants”) pour que des choses inattendues puissent s’y passer, et donc des projets innovants émerger. 
+
+Le lieu agit comme une plateforme, fédérant un écosystème de projets diversifié (associations, entreprises, citoyens, etc.). Ils hébergent aussi souvent une variété de commerces indépendants (boutique, bar, restaurant, etc.) ainsi que d'autres services (skatepark, crêche, etc.).
+
+Ils sont ouverts au grand public à travers une programmation culturelle (qui peut être participative) et une partie de leurs modèles d’affaire s’appuie sur les commerces présents sur site.
+
+----
+
+Program: 0
+
+----
+
+Open: 10
+
+----
+
+Mix: 80
+
+----
+
+Contenu: 20
+
+----
+
+Make: 90
+
+----
+
+Neutral: 70
+
+----
+
+Thecol: #c96500
+
+----
+
+Pp: 
+
+- 
+  thep: >
+    Tous les projets commencent par une
+    rencontre
+- 
+  thep: >
+    La culture (sous toutes ses formes) est
+    un liant puissant entre les gens.
+- 
+  thep: "Les gens ont besoin d'espaces pour laisser aller leur créativité"

@@ -1,0 +1,63 @@
+Title: Club des innovateurs
+
+----
+
+Baseline: Pour changer le monde, vous avez besoin d’un réseau !
+
+----
+
+Text: 
+
+La notion de communauté a explosé dans les dernières années (sans que le phénomène ne soit très défini) et un certain nombre de lieux dédiés à des communautés de pratiques ont émergé. Ils sont nés d’un besoin naturel de création de lien et de se retrouver avec des gens qui nous ressemblent (le crossfit a remplacé la messe ?). Ces lieux portent en général des valeurs très claires, socle d’une forte culture commune, qui contribuent à créer un grand sentiment d’appartenance des membres envers l’organisation (et avec, en retour, de très fortes attentes). Certaines communautés cherchent à produire des choses (projets, veille collaborative, etc.) lorsque d’autres se contentent de rencontres et d’échanges informels. Certaines sont tournées vers des pratiques professionnelles (facilitation, design, programmation, etc.) alors que d’autres sont plutôt aées sur les profils des membres (ingénieurs, femmes, LGBT, etc.). Certaines enfin choisissent de se revendiquer comme ‘mouvements’.
+
+Ces communautés de pratiques (théorisées par Wenger) s’appuient d’abord sur les réseaux en ligne à travers une panoplie d’outils (réseaux sociaux, forums, wikis, agendas, etc.) mais ont quand-même besoin de lieux et de moments définis pour se retrouver. Ces rencontres doivent donc avoir du sens et être créatrices de valeur pour les membres. Elles mettent l’accent sur l’échange pair-à-pair entre les membres (retour d’expérience, projets communs, etc.).
+
+Le ciment des communautés de pratiques est la confiance entre les membres. Tout doit donc être fait pour la préserver (partage de la valeur, reconnaissance de la participation, transparence des règles de fonctionnement, respect des valeurs affichées, etc.). Ces communautés s’appuient sur une variété de processus de sélection, de la cooptation aux entretiens de motivation. Certaines ont ainsi des conditions d'entrée très restrictives. 
+
+La plupart des lieux hébergeant des communautés de pratiques fonctionnent grâce aux abonnements des membres, ce qui leur permet (quand ça fonctionne) de bénéficier d’une grande liberté d’action dans le choix de leurs projets. Les services offerts aux membres varient grandement d’un lieu à un autre (et donc le prix de l’abonnement), mais les opérateurs du lieu agissent généralement comme des gestionnaires de cette communauté.
+
+----
+
+Fas: street-view
+
+----
+
+Program: 100
+
+----
+
+Open: 90
+
+----
+
+Mix: 100
+
+----
+
+Contenu: 10
+
+----
+
+Make: 90
+
+----
+
+Neutral: 90
+
+----
+
+Thecol: #009e89
+
+----
+
+Pp: 
+
+- 
+  thep: >
+    Le monde de demain se fera en réseau et
+    non en grande structure
+- 
+  thep: >
+    On a besoin de se supporter avec les
+    gens qui travaillent sur les mêmes
+    sujets que nous

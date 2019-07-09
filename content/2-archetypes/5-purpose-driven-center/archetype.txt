@@ -2,7 +2,7 @@ Title: Purpose-driven center
 
 ----
 
-Baseline: Le lieu de référence pour travailler sur [*sujet à définir]
+Baseline: Le lieu de référence pour faire bouger les lignes / explorer / influencer sur [*sujet à définir]
 
 ----
 
@@ -47,3 +47,10 @@ Neutral: 100
 ----
 
 Thecol: #700029
+
+----
+
+Pp: 
+
+- 
+  thep: 'Le monde doit absolument connaitre [*sujet à définir]'

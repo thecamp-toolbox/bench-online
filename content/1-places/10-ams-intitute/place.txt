@@ -1,0 +1,135 @@
+Prevnext: 
+
+----
+
+Title: AMS Intitute
+
+----
+
+Baseline: Engineering the future city
+
+----
+
+Theurl: https://www.ams-institute.org/
+
+----
+
+Location: Amsterdam, NL
+
+----
+
+Header: ams-image.jpg
+
+----
+
+Logo: amslogo.jpg
+
+----
+
+Staff: 
+
+----
+
+Budget: 
+
+----
+
+Rooming: 0
+
+----
+
+State: croissance
+
+----
+
+Text: 
+
+**Historique**
+
+Dans un contexte de volonté politique de diversification économique de la ville d’Amsterdam, la ville d’Amsterdam lance en avril 2013 un appel à projet (« design contest ») pour l’élaboration d’un institut technologique international orienté autour des thématiques urbaines intitulé « Amsterdam Institute for Advanced Metropolitan Solutions » (AMS Institute) que l’on peut traduire par « Institut d’Amsterdam pour des solutions métropolitaines avancées ». Cette appel est remporté par un partenariat entre trois universités dont deux néerlandaises  - Université technologique de Delft (TU Delft), l’université et de Wageningen (WUR) et le Massachusetts Institute of Technology (MIT) autour d’une proposition d’un institut de recherche orienté vers la création de solutions urbaines (dans des domaines tels que l’eau, l’énergie, les déchets, l’alimentation et la gestion des données) en collaboration avec les établissements universitaires et de recherche, les entreprises, les municipalités et les résidents locaux. Concrètement, la proposition retenue consistait à garantir pour 50M€ d’investissement par la ville d’Amsterdam, 250M€ d’investissements dans la recherche en 10 ans. 
+
+**Aménagement du lieu**
+Après avoir été hébergé dans des locaux en centre-ville, l'AMS Institute a déménagé en 2018 vers "Marineterrein Amsterdam", un quartier portuaire en reconversion. Que ce soit dans les anciens ou futurs locaux (1850m2), le lieu d'hébergement de la structure n’est pas au cœur de la stratégie, c’est l’expérimentation sur le territoire qui est structurante. 
+
+**Programmation**
+
+Cet institut inauguré en 2014 agit sur trois volets majeurs : 
+- L’éducation : développement d'un master dédié « MADE » (Metropolitan Analysis, Design and Engineering), organisation d'académies d’été, proposition de cours en ligne MOOCs, …
+- L’élaboration d’une plateforme de valeur dite « value plateform » (plateforme permettant de stocker et de combiner des connaissances, des réseaux et des infrastructures afin de permettre des activités de formation, de recherche et de valorisation).
+- La recherche et valorisation : conception de solutions métropolitaines multiacteurs innovants, et accélération de leur intégration dans l’environnement réel. Les projets correspondent tous aux critères clés de l'AMS : ils impliquent les résidents d'Amsterdam et les partenaires de l'institut, ils bénéficieront à la population locale et sont reconnus internationalement comme innovants.   
+
+Dans le cadre du secteur "recherche et valorisation", l’AMS Institute accompagne plusieurs projets ambitieux tels que le projet (link:https://www.ams-institute.org/roboat/ text: "roboat"), qui vise à développer et déployer à Amsterdam en premier lieu une flotte de bateaux autonomes pour le transport de biens et de personnes. 
+
+De plus, l'AMS Institure a organisé plusieurs sessions d’appels à projet intitulés « Stimulus projects » qui permet de doter les huit projets sélectionnés d’un budget d’amorçage représentant jusqu’à 50% du budget du projet - avec un maximum de 25K€ - et d’un an d’accompagnement notamment basé sur la valorisation des partenariats de l’AMS Institute. Les critères de sélection des projets reposent sur la pertinence vis-à-vis des enjeux urbains identifiés par l’AMS Institute (ville circulaire, ville connectée, ville vitale) en cohérence avec ceux de la ville d’Amsterdam , le caractère innovant et scientifiquement valide de la proposition, le plan de développement à plus long terme anticipé, et l’implication conjointe d’un partenaire académique de l’AMS Institute et d’un acteur socio-économique . 
+
+**Modèle d'affaire**
+
+L'AMS Institut est une organisation non-profit, avec des financements publics-privés. La ville d'Amsterdam soutient financièrement l’AMS Institute (investissement de 50M dans le projet), en échange de solutions déployées sur son territoire et répondant à ses besoins et d'investissements complémentaires provenant des entreprises, des fonds nationaux et européens. Les grandes entreprises participent également au financement des projets, tandis que les 3 universités fondatrices (TU Delft, WUR, et MIT) participent en apportant des ressources humaines aux projets. 
+
+**Gouvernance**
+
+La direction de l’AMS Institute est à l’image de sa structuration public-privée et de son orientation stratégique entre le monde académique et le développement de solutions commercialisables. Il y a donc à la fois un directeur scientific et un directeur commercial. Le comité de direction est composé de deux représentants des deux partenaires fondateurs (TU Delft et WUR) : 
+Un comité consultatif scientifique permet d’apporter un regard stratégique et critique sur les programmes de recherche, mais aussi sur les acteurs de l’AMS. 
+
+**Ecosystème**
+
+De par l’origine de sa structure, l’AMS Institute est très lié aux universités ayant collaboré dans le cadre du consortium dont à émergé l’AMS, et plus généralement aux acteurs de la recherche. 
+- Delft University of Technology (TU Delft): Université technologique de Delft
+- Wageningen University and Research (WUR): collaboration entre l’université de Wageningen et la fondation pour la recherche “Wageningen Research foundation”.
+- Massachusetts Institute of Technology (MIT): Institut de technologie du Massachusetts
+
+L'AMS Institute a également développé des partenariats avec des grands industriels, tels qu'IBM, Cisco, Shell, Accenture, Agence Spatiale Européenne, ... et de grands acteurs territoriaux spécialisés : Alliander (énergie), Waternet (management du cycle de l'eau), 	Port d’Amsterdam, 	KPN (TIC aux Pays-Bas).
+
+Enfin, l'AMS Institute a développé des partenariats dits « sociaux » et notamment des plateformes citoyennes, qui permettent 
+d'ancrer l'organisation dans le territoire et d'impliquer les citoyens dans certains projets : Amsterdam Smart City, plateforme qui recense les projets autour de la smart city dans l’aire métropolitaine d’Amsterdam, la WAAG Society, Institut international pour l’Art, la Science et la Technologie basée à Amsterdam, et la Fabrique de la Cité, groupe de réflexion sur la transition urbaine créée à l’initiative du groupe Vinci.
+
+----
+
+Tags: le lieu n’est pas le cœur de la stratégie,lien public-privé,lien universités-entreprises
+
+----
+
+Offres: formations,mooc,accompagnement de projets,appel à projets avec fond associé
+
+----
+
+Publics: entreprises,universités,chercheurs,entrepreneurs
+
+----
+
+Arcs: 
+
+- 
+  anarc: plateforme-d-experimentation-projet
+  percent: "70"
+- 
+  anarc: universite-partagee
+  percent: "30"
+
+----
+
+Sliders: 
+
+----
+
+Program: 50
+
+----
+
+Open: 100
+
+----
+
+Mix: 100
+
+----
+
+Contenu: 90
+
+----
+
+Make: 80
+
+----
+
+Neutral: 80

@@ -1,0 +1,26 @@
+Title: À propos
+
+----
+
+Text: 
+
+La base de donnée proposée, ainsi que ces clés de lecture (marqueurs et archétypes) sont le fruit d'un travail de réflexion mené en interne à thecamp, par les équipes elles-mêmes (*grassroot*). Ce travail, qui a pour but de clarifier le positionnement de thecamp, est toujours en cours et a été confronté à plusieurs autres demandes. 
+
+##Marqueurs 
+
+L'idée des marqueurs est née lors d'un atelier de définition du projet thecamp. Plusieurs personnes sont venues avec des questions auxquelles elles n'arrivaient pas à trouver une réponse (ex. sommes-nous DIY ou luxe ? etc.). Ces questions ont été formulées sous forme de polarités. Nous sommes arrivés à plus de 30, qui ont été réécrites pour arriver aux 6 utilisées sur ce site. En effet, un certain nombre de polarités concernaient uniquement notre mode d'organisation interne. Nous avons donc choisi de nous concentrer sur la proposition de valeur. 
+Une bonne polarité est constituée de deux choix, qui peuvent chacun être défendus et peuvent être attractifs.  
+
+##Archétypes 
+
+Nous avons ensuite demandé à l'équipe de se positionner en votant sur chacune des polarités. Cela nous a permis de voir lesquelles étaient clivantes et nécessitaient un vrai travail de réflexion et de discussion. Autant il est important de réussir à se positionner sur chacune de ces polarités, autant l'ensemble de ces polarités doit permettre de construire une image cohérente. C'est à ce moment là que nous avons décidé de nous appuyer sur la notion d'archétype. 
+
+> **Archétype (wikipédia)** : Un archétype (du grec arkhetupon, « modèle primitif », par l'intermédiaire du latin archetypum) est, en littérature et en philosophie, un modèle idéal à partir duquel est construit dans sa « forme », sa « matière », sa « fin », un sujet (qui appartient en quelque sorte à une série). Employée en psychanalyse, la notion d'« archétypes » recouvre une signification propre définie par Carl Gustav Jung : des préformes vides qui organisent la vie instinctive et spirituelle, structurent les images mentales (pensées, fantasmes, rêves...). On peut aussi définir un archétype comme un point de vue analogique sur une réalité sensible, susceptible d'intégrer la totalité des points de vue qu'on peut en avoir.
+
+Chaque archétype est donc une représentation d'un type de lieu d'innovation 'idéal'. Il est donc défini par un certain positionnement par rapport aux marqueurs définis précédement. Et on peut ensuite définir chaque lieu comme un 'cocktail' d'archétypes. 
+
+Plusieurs choix ont été faits au cours de ce travail : 
+
+- Nous nous sommes concentrés sur les lieux d'innovation et avons de fait ignoré les agences ou les laboratoires de r&d (qui peuvent pour certaines, offrir des programmes proches de certains lieux qu'on retrouve ici) 
+- Nous avons choisi de ne pas ajouter un archétype autour des 'labs d'innovation'. Ces laboratoires, qu'on retrouve dans plusieurs organisations, peuvent être très différents les uns des autres et relèvent en fait des archétypes 
+- De la même manière, les fablabs ou makerspaces reprennent des caractéristiques de certains des archétypes et ne représentent pas une catégorie suffisament homogène pour être considérée comme telle.
